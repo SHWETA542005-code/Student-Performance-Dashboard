@@ -6,8 +6,11 @@ This project presents an interactive Power BI dashboard analyzing student academ
 📊 Key Insights
 
 Performance distribution across marks
+
 Average score analysis
+
 Identification of high- and low-performing students
+
 Attendance vs performance trends 
 
 🛠 Tech Stack
